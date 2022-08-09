@@ -16,6 +16,6 @@ número passado.
 1. Acessar o repositório do desafio no github: https://github.com/rafosoalc/escribo-d1;
 2. Copiar o código fonte do arquivo escribo.dart;
 3. Acessar o site DartPad no link: https://www.dartpad.dev/?;
-4. Colar o código copiado anteriormente na caixa esquerda do site clicar em executar; 
-5. Para testar basta alterNa função main 
+4. Colar o código copiado anteriormente na caixa esquerda do site e clicar em executar; 
+5. Para testar outros valores, basta alterar dentro da função main() o valor do parâmetro da função sumNumbers(), e clique em executar.
 
